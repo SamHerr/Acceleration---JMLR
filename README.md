@@ -1,5 +1,5 @@
 # Acceleration---JMLR
-This repository contains different C-programs. They permit to generate the first exit time for continuous one-dimensional diffusion processes. 
+This repository contains different C++ programs. They permit to generate the first exit time for continuous one-dimensional diffusion processes. 
 
 These programs correspond to the 3 examples presented in the following study.
 #
